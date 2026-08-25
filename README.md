@@ -17,6 +17,7 @@ the platform measures is exactly the commit each catalogue entry pins.
 | [Sign of encrypted values](https://fherma.io/kernels/sign) | `f64@1.0.0` | [encrypted-sign-ckks](https://github.com/fherma-ai/encrypted-sign-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
 | [ReLU over encrypted values](https://fherma.io/kernels/relu) | `f64@1.0.0` | [encrypted-relu-ckks](https://github.com/fherma-ai/encrypted-relu-ckks) | FHERMA community | CKKS |
 | [Logistic over encrypted values](https://fherma.io/kernels/logistic) | `f64@1.0.0` | [encrypted-logistic-ckks](https://github.com/fherma-ai/encrypted-logistic-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
+| [Parity of encrypted values](https://fherma.io/kernels/parity) | `u8@1.0.0` | [encrypted-parity-ckks](https://github.com/fherma-ai/encrypted-parity-ckks) | FHERMA community | CKKS |
 
 ## How a solution is shaped
 
