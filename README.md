@@ -15,6 +15,7 @@ the platform measures is exactly the commit each catalogue entry pins.
 | [Matrix Multiplication](https://fherma.io/kernels/matrix-multiplication) | `secret-matrices@1.0.0` | [encrypted-matmul-ckks](https://github.com/fherma-ai/encrypted-matmul-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
 | [Max in encrypted array](https://fherma.io/kernels/max-element) | `u16@1.0.0` | [encrypted-max-element-bgv](https://github.com/fherma-ai/encrypted-max-element-bgv) | hita | BGV |
 | [Sign of encrypted values](https://fherma.io/kernels/sign) | `f64@1.0.0` | [encrypted-sign-ckks](https://github.com/fherma-ai/encrypted-sign-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
+| [ReLU over encrypted values](https://fherma.io/kernels/relu) | `f64@1.0.0` | [encrypted-relu-ckks](https://github.com/fherma-ai/encrypted-relu-ckks) | FHERMA community | CKKS |
 
 ## How a solution is shaped
 
