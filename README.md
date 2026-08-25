@@ -11,9 +11,9 @@ the platform measures is exactly the commit each catalogue entry pins.
 
 | Kernel | Specification | Solution | Author | Scheme |
 | --- | --- | --- | --- | --- |
-| [AXPY](https://fherma.io/kernels/axpy) | `secret-vectors@1.0.0` | [axpy-ckks](https://github.com/fherma-ai/axpy-ckks) | FHERMA team | CKKS |
-| [Matrix Multiplication](https://fherma.io/kernels/matrix-multiplication) | `secret-matrices@1.0.0` | [matmul-ckks](https://github.com/fherma-ai/matmul-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
-| [Max in encrypted array](https://fherma.io/kernels/max-element) | `u16@1.0.0` | [max-element-bgv](https://github.com/fherma-ai/max-element-bgv) | hita | BGV |
+| [AXPY](https://fherma.io/kernels/axpy) | `secret-vectors@1.0.0` | [encrypted-axpy-ckks](https://github.com/fherma-ai/encrypted-axpy-ckks) | FHERMA team | CKKS |
+| [Matrix Multiplication](https://fherma.io/kernels/matrix-multiplication) | `secret-matrices@1.0.0` | [encrypted-matmul-ckks](https://github.com/fherma-ai/encrypted-matmul-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
+| [Max in encrypted array](https://fherma.io/kernels/max-element) | `u16@1.0.0` | [encrypted-max-element-bgv](https://github.com/fherma-ai/encrypted-max-element-bgv) | hita | BGV |
 
 ## How a solution is shaped
 
