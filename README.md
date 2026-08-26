@@ -15,6 +15,7 @@ the platform measures is exactly the commit each catalogue entry pins.
 | [Matrix Multiplication](https://fherma.io/kernels/matrix-multiplication) | `secret-matrices@1.0.0` | [encrypted-matmul-ckks](https://github.com/fherma-ai/encrypted-matmul-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
 | [Max in encrypted array](https://fherma.io/kernels/max-element) | `u16@1.0.0` | [encrypted-max-element-bgv](https://github.com/fherma-ai/encrypted-max-element-bgv) | hita | BGV |
 | [Sign of encrypted values](https://fherma.io/kernels/sign) | `f64@1.0.0` | [encrypted-sign-ckks](https://github.com/fherma-ai/encrypted-sign-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
+| [Sign of encrypted values](https://fherma.io/kernels/sign) | `f64@1.0.0` | [encrypted-sign-poulpy](https://github.com/fherma-ai/encrypted-sign-poulpy) | FHERMA team | CKKS · Poulpy |
 | [ReLU over encrypted values](https://fherma.io/kernels/relu) | `f64@1.0.0` | [encrypted-relu-ckks](https://github.com/fherma-ai/encrypted-relu-ckks) | FHERMA community | CKKS |
 | [Logistic over encrypted values](https://fherma.io/kernels/logistic) | `f64@1.0.0` | [encrypted-logistic-ckks](https://github.com/fherma-ai/encrypted-logistic-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
 | [Parity of encrypted values](https://fherma.io/kernels/parity) | `u8@1.0.0` | [encrypted-parity-ckks](https://github.com/fherma-ai/encrypted-parity-ckks) | FHERMA community | CKKS |
