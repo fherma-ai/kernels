@@ -12,12 +12,15 @@ the platform measures is exactly the commit each catalogue entry pins.
 | Kernel | Specification | Solution | Author | Scheme |
 | --- | --- | --- | --- | --- |
 | [AXPY](https://fherma.io/kernels/axpy) | `secret-vectors@1.0.0` | [encrypted-axpy-ckks](https://github.com/fherma-ai/encrypted-axpy-ckks) | FHERMA team | CKKS |
+| [AXPY](https://fherma.io/kernels/axpy) | `secret-vectors@1.0.0` | [encrypted-axpy-poulpy](https://github.com/fherma-ai/encrypted-axpy-poulpy) | FHERMA team | CKKS · Poulpy |
 | [Matrix Multiplication](https://fherma.io/kernels/matrix-multiplication) | `secret-matrices@1.0.0` | [encrypted-matmul-ckks](https://github.com/fherma-ai/encrypted-matmul-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
 | [Max in encrypted array](https://fherma.io/kernels/max-element) | `u16@1.0.0` | [encrypted-max-element-bgv](https://github.com/fherma-ai/encrypted-max-element-bgv) | hita | BGV |
 | [Sign of encrypted values](https://fherma.io/kernels/sign) | `f64@1.0.0` | [encrypted-sign-ckks](https://github.com/fherma-ai/encrypted-sign-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
 | [Sign of encrypted values](https://fherma.io/kernels/sign) | `f64@1.0.0` | [encrypted-sign-poulpy](https://github.com/fherma-ai/encrypted-sign-poulpy) | FHERMA team | CKKS · Poulpy |
 | [ReLU over encrypted values](https://fherma.io/kernels/relu) | `f64@1.0.0` | [encrypted-relu-ckks](https://github.com/fherma-ai/encrypted-relu-ckks) | FHERMA community | CKKS |
+| [ReLU over encrypted values](https://fherma.io/kernels/relu) | `f64@1.0.0` | [encrypted-relu-poulpy](https://github.com/fherma-ai/encrypted-relu-poulpy) | FHERMA team | CKKS · Poulpy |
 | [Logistic over encrypted values](https://fherma.io/kernels/logistic) | `f64@1.0.0` | [encrypted-logistic-ckks](https://github.com/fherma-ai/encrypted-logistic-ckks) | [Aikata](https://www.iaik.tugraz.at/person/aikata-aikata/) (TU Graz) | CKKS |
+| [Logistic over encrypted values](https://fherma.io/kernels/logistic) | `f64@1.0.0` | [encrypted-logistic-poulpy](https://github.com/fherma-ai/encrypted-logistic-poulpy) | FHERMA team | CKKS · Poulpy |
 | [Parity of encrypted values](https://fherma.io/kernels/parity) | `u8@1.0.0` | [encrypted-parity-ckks](https://github.com/fherma-ai/encrypted-parity-ckks) | FHERMA community | CKKS |
 | [Lookup in encrypted table](https://fherma.io/kernels/lookup) | `u16@1.0.0` | [encrypted-lookup-bgv](https://github.com/fherma-ai/encrypted-lookup-bgv) | FHERMA community | BGV |
 | [Shift left over encrypted values](https://fherma.io/kernels/shl) | `u16-word@1.0.0` | [encrypted-shl-bgv](https://github.com/fherma-ai/encrypted-shl-bgv) | FHERMA community | BGV |
